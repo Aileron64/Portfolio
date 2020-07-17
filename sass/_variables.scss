@@ -1,0 +1,29 @@
+
+// Colors
+
+$primary-color: rgb(72, 102, 114);
+$accent-color: rgb(102, 102, 102);
+
+$button-color: rgb(228, 228, 228);
+$button-color-alt: rgb(212, 212, 212);
+
+$text-color: rgb(214, 214, 214);
+$text-alt-color: rgb(172, 171, 171);
+$text-button-color: rgb(95, 95, 95);
+
+
+$shadow-main: 0px 4px 12px black;
+$shadow-inset: 0px 2px 4px inset black;
+$shadow-button: 0px 0px 2px black;
+$shadow-text: 0px 0px 3px black;
+$shadow-text-2: 0px 0px 5px black;
+$shadow-highlight: 0px 0px 1px white;
+
+// Font
+
+$font-main: ('Open Sans', sans-serif);
+
+//Screen Breakpoints
+
+$breakpoint-tablet: 900px;
+$breakpoint-phone: 600px;
